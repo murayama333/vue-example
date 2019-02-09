@@ -31,7 +31,6 @@ export default {
         type: "addTask",
         task: this.newTask
       })
-      // this.$store.dispatch()
     }
   }
 }
