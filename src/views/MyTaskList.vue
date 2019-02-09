@@ -44,7 +44,6 @@ export default {
         type: "addTask",
         task: this.newTask
       })
-      // this.$store.dispatch()
     },
     onclick2 () {
       this.$store.dispatch({
